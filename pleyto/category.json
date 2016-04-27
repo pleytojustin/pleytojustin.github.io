@@ -2,10 +2,12 @@
   "json": [
             
              {"link":"http://pleytojustin.github.io/pleyto/newthismonth.png"},
+            {"link":"http://pleytojustin.github.io/pleyto/american.png"},
+            {"link":"http://pleytojustin.github.io/pleyto/chinese.png"},
             {"link":"http://pleytojustin.github.io/pleyto/nocturnalNights.png"},
-            {"link":"http://pleytojustin.github.io/pleyto/breakfast.png"},
-            {"link":"http://pleytojustin.github.io/pleyto/nocturnalNights.png"},
-            {"link":"http://pleytojustin.github.io/pleyto/newthismonth.png"},
-            {"link":"http://pleytojustin.github.io/pleyto/breakfast.png"}
+            {"link":"http://pleytojustin.github.io/pleyto/japanese.png"},
+            {"link":"http://pleytojustin.github.io/pleyto/seafood.png"},
+             {"link":"http://pleytojustin.github.io/pleyto/sweettooth.png"},
+            {"link":"http://pleytojustin.github.io/pleyto/topofthemorning.png"}
           ]
 }
